@@ -1,8 +1,11 @@
-Jian Gao's Homepage
+# Jian Gao's Homepage
+
 ## Introduction
   My name is Jian Gao, a Master of Science in Computer Science student in Columbia University, also a previous alumni of The Ohio State University. I got my Bachelor of Science degree from The Ohio State University in May 2020 as a Summa Cum Lauda student with a GPA 3.92. During my time in OSU, my major was Computer Information Science, and minor is Mathematics.
   
   I enjoy coding, and frequently use Python and Java. I look forward to becoming a Software Enginner in the future. You could check my Resume here: [Jian Gao's Resume](https://jackygaoj.github.io/Resume.pdf). 
+  
+  Here is my Github's repositories: [Jian Gao's Github](https://github.com/JackyGaoJ?tab=repositories). It contains some of my previous course projects and others. 
 
 
 
