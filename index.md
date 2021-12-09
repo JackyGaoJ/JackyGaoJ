@@ -3,30 +3,49 @@
   I enjoy coding, and frequently use Python and Java. I look forward to becoming a Software Enginner in the future.
 
 
-# 
-## Header 2
-### Courses:
-#### The Ohio State University
+
+## Courses:
+### The Ohio State University
+
   CSE 1223: Introduction to Computer Programming in Java
+  
   CSE 2221: Software I: Software Components
+  
   CSE 2231: Software II: Software Development and Design
+  
   CSE 2321: Foundations I: Discrete Structures
+  
   CSE 2331: Foundations II: Data Structures and Algorithms
+  
   CSE 2421: Systems I: Introduction to Low-Level Programming and Computer Organization
+  
   CSE 2431: Systems II: Introduction to Operating Systems
+  
   CSE 3241: Introduction to Database Systems
+  
   CSE 3341: Principles of Programming Languages
+  
   CSE 3461: Computer Networking and Internet Technologies
+  
   CSE 3521: Survey of Artificial Intelligence I: Basic Techniques
+  
   CSE 3541: Computer Game and Animation Techniques
+  
   CSE 3541: Computer Game and Animation Techniques
+  
   CSE 3901: Project: Design, Development, and Documentation of Web Applications
+  
   CSE 5522: Survey of Artificial Intelligence II: Advanced Techniques
+  
   CSE 5523: Machine Learning and Statistical Pattern Recognition
-#### Columbia University
+### Columbia University
+
   COMS 4111: Introduction to Databases
+  
   COMS 4731: Computer Vision
+  
   CSOR 4231: Analysis of Algorithms
+  
   EECS 6893: Big Data Analytics
 
 
