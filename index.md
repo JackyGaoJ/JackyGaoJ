@@ -1,15 +1,7 @@
-## Jian Gao's Webpage
+## introduction
+  My name is Jian Gao, a Master of Science in Computer Science student in Columbia University, also a previous alumni of The Ohio State University. I got my Bachelor of Science degree from The Ohio State University in May 2020 as a Summa Cum Lauda student with a GPA 3.92. During my time in OSU, my major was Computer Information Science, and minor is Mathematics.
+  I enjoy coding, and frequently use Python and Java. I look forward to becoming a Software Enginner in the future.
 
-You can use the [editor on GitHub](https://github.com/JackyGaoJ/JackyGaoJ.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # 
 ## Header 2
@@ -36,23 +28,5 @@ Syntax highlighted code block
   COMS 4731: Computer Vision
   CSOR 4231: Analysis of Algorithms
   EECS 6893: Big Data Analytics
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JackyGaoJ/JackyGaoJ.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
