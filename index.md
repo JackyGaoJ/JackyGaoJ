@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jian Gao's Webpage
 
 You can use the [editor on GitHub](https://github.com/JackyGaoJ/JackyGaoJ.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Jian Gao's Website
+# 
 ## Header 2
 ### Header 3
 
