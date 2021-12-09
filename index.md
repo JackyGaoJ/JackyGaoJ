@@ -7,7 +7,7 @@
   
   Here is my Github's repositories: [Jian Gao's Github](https://github.com/JackyGaoJ?tab=repositories). It contains some of my previous course projects and others. 
 
-
+  Feel free to connect me on LinkedIn.com. Here is my profile on LinkedIn: [Jian Gao's LinkedIn](https://www.linkedin.com/in/jian-gao-770903185/)
 
 ## Courses:
 ### The Ohio State University
