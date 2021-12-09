@@ -1,4 +1,3 @@
-# Jian Gao's Homepage
 
 ## Introduction
   My name is Jian Gao, a Master of Science in Computer Science student in Columbia University, also a previous alumni of The Ohio State University. I got my Bachelor of Science degree from The Ohio State University in May 2020 as a Summa Cum Lauda student with a GPA 3.92. During my time in OSU, my major was Computer Information Science, and minor is Mathematics.
